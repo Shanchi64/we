@@ -1,72 +1,148 @@
-WeCare Healthverse
+# WeCare Healthverse
 
-Wecare - The HealthVerse
-Live Demo
+<div align="center">
+  <a id="top" href="https://wecare32.vercel.app/" target="blank">
+    <img src="https://user-images.githubusercontent.com/86917304/190920826-2209d78d-272e-496a-b791-6968307df2cb.png" width="100px" alt="">
+  </a>
 
-The motivation:
-As per the Lancet report 1.6 million Indians died due to poor quality of care in 2016. And nearly twice as many as due to non-utilisation of healthcare services(838,000 persons) that why we visualized to make the healthcare system more mobile and easy available with 27*7 capabilities.
+  <h3 align="center">Wecare - The HealthVerse</h3>
 
-(back to top)
+  <p align="center">
+    <a href="https://wecare32.vercel.app/" target="blank">Live Demo</a> 
+  </p>
+</div>
 
-How it works :
-We have here modernized our healthcare system through WeCare Fun Bot , WeCare Checker , Scheduling Appointments with Doctors and Doctor Login System .The fun bot is used to tell jokes to uplift our mood through jokes , Jokes helps one to cope mental pressure and lighten our mood. Here we are prediciting one's possiblity to have a certain Disease. Here we are using our model's API to predict the possibility to have the particular disease based on specific chosen symtoms. Finally we are also allowing users to book online appointment for check up.
+---
 
-(back to top)
+## The motivation:
+As per the Lancet [report](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31668-4/fulltext) 1.6 million Indians died due to poor quality of care in 2016. And nearly twice as many as due to non-utilisation of healthcare services(838,000 persons) that why we visualized to make the healthcare system more mobile and easy available with 27*7 capabilities. 
 
-Technologies Used :
-Frontend frameworks : React , SASS , react-router-dom , react-toastify , react-helmet
+<!-- <img
+  src=""
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px"> -->
+  
+  <p align="right">(<a href="#top">back to top</a>)</p>
+  
+ ---
 
-Authenciation : Firebase
+## How it works :
 
-Database and storage: Firestore
+We have here modernized our healthcare system through  WeCare Fun Bot , WeCare Checker , Scheduling Appointments with Doctors and Doctor Login System .The fun bot is used to tell jokes to uplift our mood through jokes , Jokes helps one to cope mental pressure and lighten our mood. Here we are prediciting one's possiblity to have a certain Disease. Here we are using our model's API to predict the possibility to have the particular disease based  on specific chosen symtoms. Finally we are also allowing users to book online appointment for check up. 
 
-Services : Azure , JOKE API , Postman , Kaggle , Vercel
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-Deployment : Docker , FastAPI
+---
 
-ML Frameworks : Numpy , Pandas , Tensorflow , Sklearn , nltk
+## Technologies Used :
 
-Let's do a walkthrough of my app
-Welcome Your Web app
-image
+1. **Frontend frameworks** : `React` ,  `SASS` , `react-router-dom` , `react-toastify` ,  `react-helmet`
 
-Here we have our Joke bot ! Joke_bot helps you to get rid of the stress troubling you
-Welcome
+2. **Authenciation**       : `Firebase`
 
-Fill out the details as such your gender and age
-Welcome
+3. **Database and storage**: `Firestore`
 
-Fill in all necessary information to track your previous history of illness
-Welcome
+4. **Services**            : `Azure` , `JOKE API` , `Postman` , `Kaggle` , `Vercel` 
 
-Now Fill in the Symtopms you likely have
-Welcome
+5. **Deployment**          : `Docker` , `FastAPI`
 
-Hurray ! We got the results
-Here we see we have got a diagonis report and possibility of having the disease based on the patients track record of previous illness along with the other symtoms of that disease
+6. **ML Frameworks**       : `Numpy` , `Pandas` , `Tensorflow` , `Sklearn` , `nltk` 
 
-Add_in : You can also learn about the disease directly by clicking on info
 
-Welcome
+## Let's do a walkthrough of my app
 
-Doctor's call is final, So do check yourself up with doctor!!
-Deskstop View
-image
+## **Welcome Your Web app**
 
-Mobile View of Doctor's Dashboard
-Welcome
+![image](https://user-images.githubusercontent.com/73426684/213864866-9ae0d35f-2e26-4446-884a-f1dbdf039bf2.jpg)
 
-(back to top)
 
-Team Name - Hackit
-Acknowledgments
+## Here we have our Joke bot ! Joke_bot helps you to get rid of the stress troubling you
+
+
+![Welcome](https://user-images.githubusercontent.com/73426684/213849366-0464688a-08db-4086-a13b-ee3125232740.jpg)
+
+
+## Fill out the details as such your gender and age
+
+
+
+![Welcome](./images/welcome_page.jpg)
+
+
+
+## Fill in all necessary information to track  your previous history of illness
+
+
+
+![Welcome](./images/patient.jpg)
+
+
+
+## Now Fill in the Symtopms you likely have
+
+
+
+![Welcome](./images/symtom.jpg)
+
+
+
+
+## Hurray ! We got the results
+
+**Here we see we have got a diagonis report and possibility of having the disease based on the patients track record of previous illness along with the other symtoms of that disease**
+
+
+*Add_in : You can also learn about the disease directly by clicking on info*
+
+
+
+![Welcome](./images/disease_report.jpg)
+
+
+## Doctor's call is final, So do check yourself up with doctor!!
+
+### Deskstop View
+![image](https://user-images.githubusercontent.com/86917304/190920646-b3ddd488-9d46-41fa-b167-173541c76426.png)
+
+### Mobile View of Doctor's Dashboard
+![Welcome](https://user-images.githubusercontent.com/73426684/213864966-5869f035-222c-4b1a-b853-830604d53ab5.jpg)
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+---
+
+
+
+## Team Name - Hackit 
+  
+ 
+  
+
+
+
+
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-GitHub Emoji Cheat Sheet
-Alan Ai
-Favicon Converter
-Img Shields
-GitHub Pages
-Font Awesome
-React Icons
-(back to top)
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Alan Ai](https://alan.app/)
+* [Favicon Converter](https://favicon.io/favicon-converter/)
+* [Img Shields](https://shields.io)
+* [GitHub Pages](https://pages.github.com)
+* [Font Awesome](https://fontawesome.com)
+* [React Icons](https://react-icons.github.io/react-icons/search)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+
+
+
